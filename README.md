@@ -4,9 +4,9 @@
 
 ## 🙋 팀원
 
-- 박현서
-- 최나영
-- 박지원
+- [박현서](https://github.com/hyleei)
+- [최나영](https://github.com/na-rong)
+- [박지원](https://github.com/jiione)
 
 ## 📅 프로젝트 기간
 
